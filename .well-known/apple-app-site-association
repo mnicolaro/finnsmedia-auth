@@ -1,0 +1,14 @@
+
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "3MSW5PGT67.com.FinnNicolaro.Photosheet",
+        "paths": [
+          "/tiktok/callback",
+          "/tiktok/callback/*"
+        ]
+      }
+    ]
+  }
+}
